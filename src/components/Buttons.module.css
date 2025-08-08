@@ -1,0 +1,18 @@
+.buttons{
+  display: flex;
+  gap: 2rem;
+}
+
+.button {
+  width: 100px;
+  height: 70px;
+  border: none;
+  border-radius: 2rem;
+  background-color: #F6F6F6;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  cursor: pointer;
+}
+
+.buttons img {
+  max-height: 40px;
+}
